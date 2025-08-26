@@ -1,0 +1,27 @@
+body
+{
+    background-color: rgb(210, 200, 173);
+    color: rgb(96, 87, 87);
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    justify-self: center;
+    align-items: center;
+    
+}
+.hlo
+{
+    background-color: rgb(255, 150, 44);
+    border-radius: 6px;
+    box-shadow:  2px 1px 11px 5px rgb(255, 255, 255);
+    padding: 30px 40px;
+    margin: 200px;
+    
+}
+h1
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    block-size:20px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-bottom: 60px;
+}
